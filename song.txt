@@ -7,4 +7,7 @@ New lines
 New verse
 Second verse
 4th line 
+
+3rd verse
+Here it goes
 ----------------
